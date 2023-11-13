@@ -1,4 +1,4 @@
-![logo](https://github.com/aditya2028/aditya2028/blob/main/Github%20Banner%20(1).jpg)
+![logo](https://github.com/aditya2028/aditya2028/blob/main/Github%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Aditya Kr Pandey</h1>
 <h3 align="center">Freelance Data Science Enthusiast with a passion for using data to solve real-world problems and a strong foundation in mathematics, statistics, and computer science from India</h3>
 
