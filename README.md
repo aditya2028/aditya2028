@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya2028&label=Profile%20views&color=0e75b6&style=flat" alt="aditya2028" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya2028" alt="aditya2028" /></a> </p>
 
 - 💬 Ask me about **data science tools and libraries,data science resources (books, blogs, podcasts, etc.)?, machine learning algorithms?, data visualization tools?,**
 
