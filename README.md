@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **kgpadityapandey@gmail.com**
 
+- ### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+1) https://medium.com/@kgpadityapandey/the-future-of-data-science-a-systematic-overview-a3879ec84bb5
+<!-- BLOG-POST-LIST:END -->
+
 
 <h3>🛠️ Languages and Tools</h3>
 
