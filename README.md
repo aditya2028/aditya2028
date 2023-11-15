@@ -17,6 +17,8 @@
    https://medium.com/@kgpadityapandey/the-future-of-data-science-a-systematic-overview-a3879ec84bb5
 2) How to Turn Your IT Skills into a Thriving Business: A Step-by-Step Guide
    https://medium.com/@kgpadityapandey/how-to-turn-your-it-skills-into-a-thriving-business-a-step-by-step-guide-da14ed35c29a
+3) Is Data Science Really Dying? Debunking the Myth
+   https://medium.com/@kgpadityapandey/is-data-science-really-dying-debunking-the-myth-267a170f6d5a
 <!-- BLOG-POST-LIST:END -->
 
 
