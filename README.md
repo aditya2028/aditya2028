@@ -19,6 +19,8 @@
    https://medium.com/@kgpadityapandey/how-to-turn-your-it-skills-into-a-thriving-business-a-step-by-step-guide-da14ed35c29a
 3) Is Data Science Really Dying? Debunking the Myth
    https://medium.com/@kgpadityapandey/is-data-science-really-dying-debunking-the-myth-267a170f6d5a
+4) Decoding India’s Digital Economy: A Data Visualization Journey with PhonePe
+   https://medium.com/@kgpadityapandey/decoding-indias-digital-economy-a-data-visualization-journey-with-phonepe-c13966584be5
 <!-- BLOG-POST-LIST:END -->
 
 
