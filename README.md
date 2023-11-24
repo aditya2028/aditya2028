@@ -13,14 +13,15 @@
 
 - ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-1) The Future of Data Science: A Systematic Overview
-   https://medium.com/@kgpadityapandey/the-future-of-data-science-a-systematic-overview-a3879ec84bb5
-2) How to Turn Your IT Skills into a Thriving Business: A Step-by-Step Guide
-   https://medium.com/@kgpadityapandey/how-to-turn-your-it-skills-into-a-thriving-business-a-step-by-step-guide-da14ed35c29a
-3) Is Data Science Really Dying? Debunking the Myth
-   https://medium.com/@kgpadityapandey/is-data-science-really-dying-debunking-the-myth-267a170f6d5a
-4) Decoding India’s Digital Economy: A Data Visualization Journey with PhonePe
+1) Decoding India’s Digital Economy: A Data Visualization Journey with PhonePe
    https://medium.com/@kgpadityapandey/decoding-indias-digital-economy-a-data-visualization-journey-with-phonepe-c13966584be5
+2) The Future of Data Science: A Systematic Overview
+   https://medium.com/@kgpadityapandey/the-future-of-data-science-a-systematic-overview-a3879ec84bb5
+3) How to Turn Your IT Skills into a Thriving Business: A Step-by-Step Guide
+   https://medium.com/@kgpadityapandey/how-to-turn-your-it-skills-into-a-thriving-business-a-step-by-step-guide-da14ed35c29a
+4) Is Data Science Really Dying? Debunking the Myth
+   https://medium.com/@kgpadityapandey/is-data-science-really-dying-debunking-the-myth-267a170f6d5a
+
 <!-- BLOG-POST-LIST:END -->
 
 
