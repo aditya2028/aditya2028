@@ -21,6 +21,8 @@
    https://medium.com/@kgpadityapandey/how-to-turn-your-it-skills-into-a-thriving-business-a-step-by-step-guide-da14ed35c29a
 4) Is Data Science Really Dying? Debunking the Myth
    https://medium.com/@kgpadityapandey/is-data-science-really-dying-debunking-the-myth-267a170f6d5a
+5) Game On! Build Your Own Hand Tracking Computer Vision Video Game 🎮👋🔥
+   https://medium.com/@kgpadityapandey/game-on-build-your-own-hand-tracking-computer-vision-video-game-ee9a829da24a
 
 <!-- BLOG-POST-LIST:END -->
 
